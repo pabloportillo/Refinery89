@@ -60,6 +60,10 @@ http://localhost:8000/users
 Para asignar usuarios a departamentos:
 http://127.0.0.1:8000/department_users
 
+Para lanzar los test unitarios:
+
+php artisan test
+
 
 ## Licencia
 
