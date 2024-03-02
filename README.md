@@ -17,7 +17,7 @@ Por problemas de compatibilidad de versiones y falta de tiempo no me ha sido pos
 
 1. Clona este repositorio en tu máquina local:
 
-git clone https://github.com/tu-usuario/refinery89.git
+git clone https://github.com/pabloportillo/refinery89.git
 
 2. Instala las dependencias de PHP con Composer:
 
